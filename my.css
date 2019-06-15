@@ -1,0 +1,32 @@
+.card-purple {
+    background: linear-gradient(145deg, #673AB7, #9C27B0);
+}
+
+.card-yellow {
+    background: linear-gradient(145deg, #FFC107, #FFEB3B);
+}
+
+.card-light {
+    background: linear-gradient(145deg, #eee, #fff);
+}
+
+.card-dark {
+    background: linear-gradient(145deg, #575b5d, #252b2d);
+}
+
+.card-dark-rev {
+    background: linear-gradient(145deg, #252b2d, #575b5d);
+}
+
+
+.card-blue {
+    background: linear-gradient(145deg, rgb(143, 205, 255), #3F51B5);
+}
+
+.card-purple-pink {
+    background: linear-gradient(145deg, #3F51B5, #E91E63);
+}
+
+.card-blue-pink {
+    background: linear-gradient(145deg, #2196F3, #E91E63);
+}
