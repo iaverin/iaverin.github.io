@@ -1,3 +1,5 @@
+  
+
 .card-purple {
     background: linear-gradient(145deg, #673AB7, #9C27B0);
 }
@@ -13,6 +15,11 @@
 .card-dark {
     background: linear-gradient(145deg, #575b5d, #252b2d);
 }
+
+.card-dark-light {
+    background:  #FBF3E8;
+}
+
 
 .card-dark-rev {
     background: linear-gradient(145deg, #252b2d, #575b5d);
