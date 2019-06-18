@@ -1,4 +1,27 @@
   
+.carousel{
+   
+}
+.carousel-item {
+    position: relative; 
+     display: none; 
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 370px;
+
+    padding-left:30px;
+    padding-right:30px;
+}
+.carousel-control-next, .carousel-control-prev {
+    height: 100%;
+    width: 40px;
+  
+    bottom: auto;
+    /* background-color: #673AB7;  */
+}
+
 
 .card-purple {
     background: linear-gradient(145deg, #673AB7, #9C27B0);
