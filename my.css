@@ -37,7 +37,8 @@
 }
 
 .card-dark-light {
-    background:  #FBF3E8;
+    background:  linear-gradient(160deg, #5e5e5e, #494949);
+    color: whitesmoke
 }
 
 
